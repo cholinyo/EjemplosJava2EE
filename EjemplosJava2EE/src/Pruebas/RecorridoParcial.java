@@ -1,4 +1,4 @@
-package cuadrado;
+package Pruebas;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
